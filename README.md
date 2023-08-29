@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left">
+   <a href="#">
+    <img src="languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+</p>
 <!--
 **BrandonVang/BrandonVang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
