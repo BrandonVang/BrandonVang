@@ -2,7 +2,13 @@
 
 > My name is Brandon. Please check out my projects and skills!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonVang)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Technical Skills</h3>
+
+<p align="left">
+   <a href="#">
+    <img src="http://www.w3.org/2000/svg" style="vertical-align:top margin:6px 4px">
+  </a>  
+</p> 
 
 <!--
 **BrandonVang/BrandonVang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
