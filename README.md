@@ -1,10 +1,9 @@
-### Hi there 👋
+<h2 align="center">Hello! I'm Brandon Vang </h2> 
 
-<p align="left">
-   <a href="#">
-    <img src="languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-</p>
+> My name is Brandon. Please check out my projects and skills!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonVang)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BrandonVang/BrandonVang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
