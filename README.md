@@ -1,6 +1,6 @@
 <h1 align="center">Hello!👋  </h2> 
 
-<h2> My name is Brandon. Please check out my projects and skills!</h2>
+<h3> My name is Brandon. Please check out my projects and skills!</h3>
 
 <h3>Technical Skills</h3>
 
