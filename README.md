@@ -43,5 +43,7 @@ Here are some ideas to get you started:
 <p> If you would like to connect please see my bio or ReadME for ways to connect</p>
 
 
+### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonVang&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
