@@ -1,6 +1,24 @@
 <h1 align="center">Hello!👋  </h2> 
 
-<h3> My name is Brandon. Please check out my projects and skills!</h3>
+<h3 align="center"> My name is Brandon. Please check out my projects and skills!</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="500"/>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/brandon-vang-a80518171/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+
+
+
+<h4> About Me </h4>
+
+<p>I'm a dedicated Software Engineer with a passion for learning, pursuing challenges, and building. With some background in Coordination, I have honed my project management, communication, problem-solving and optimization ensuring processes and nuances are resolved.</p>
 
 <p>All my projects are available at https://brandonvang.github.io./</p>
 
@@ -21,3 +39,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p> If you would like to connect please see my bio or ReadME for ways to connect</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonVang&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
